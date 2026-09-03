@@ -29,7 +29,8 @@ To design and compare the mobile UI layouts of Amazon, Flipkart, and Meesho by c
 
 
 ## Output:
-<img width="1536" height="1024" alt="ChatGPT Image Aug 31, 2026, 10_46_26 AM" src="https://github.com/user-attachments/assets/d6d10dc7-8d95-4c2c-b50f-1df63b18a3e5" />
+<img width="1007" height="566" alt="image" src="https://github.com/user-attachments/assets/64c2e1fc-9982-443a-89d5-ec020fa8de34" />
+
 
 ## Result:
 The mobile UI layouts of Amazon, Flipkart, and Meesho were successfully designed using Figma. The designs include search, offers, categories, products, navigation, and other essential UI elements, providing a clear and user-friendly shopping experience.
